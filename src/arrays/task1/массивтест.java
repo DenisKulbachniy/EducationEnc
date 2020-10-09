@@ -11,5 +11,4 @@ public class массивтест {
         System.out.println(Arrays.toString(arr));
 
     }
-
 }
